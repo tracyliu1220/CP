@@ -23,4 +23,20 @@
 - struct
 
 #### UVa 12455 - Bars
+**AC**
 - subsets
+- DP
+
+### 3.2.2 Recursive Complete Search
+
+#### Uva 00750 - 8 Queens Chess Problem
+**AC**
+- backtracking
+
+### 3.2 Excercises
+
+#### UVa 00193 - Graph Coloring
+**AC**
+- DFS
+- backtracking
+- can use init func.
