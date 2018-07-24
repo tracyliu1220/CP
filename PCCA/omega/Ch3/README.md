@@ -33,10 +33,39 @@
 **AC**
 - backtracking
 
-### 3.2 Excercises
+### Excercises
 
 #### UVa 00193 - Graph Coloring
 **AC**
 - DFS
 - backtracking
 - can use init func.
+
+## 3.3 Divide & Conquer
+
+### Excercises
+
+#### UVa 11057 - Exact Sum
+**AC**
+- binary search
+
+#### UVa 10341 - Solve It
+**AC**
+- binary search through double
+- define min as 1e-9
+- cout `setprecision(4)` -> 0.09763
+	- use `fixed` to fix
+
+#### UVa 11413 - Fill the Containers
+**AC**
+- binary search
+- greedy
+
+## 3.4 Greedy
+
+### Examples
+
+#### UVa 00410 - Station Balance
+**AC**
+- greedy
+- 大的配小的，必要時補0
