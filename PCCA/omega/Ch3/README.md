@@ -69,3 +69,9 @@
 **AC**
 - greedy
 - 大的配小的，必要時補0
+
+#### UVa 10382 - Watering Grass
+**AC**
+- problems
+	- x, r要用double(取畢氏會overflow)
+- greedy 取當下條件下end最靠右的
