@@ -107,8 +107,20 @@
 	- 對於每個case，有C件衣服，預算是M，每件衣服都有多種選擇，每件都要選一種買且不超過預算的情況下，最多能花多少錢
 - bottom-up 2D dp
 
+### Excercises
+
 #### Uva 10684 - The jackpot
 **AC**
 - question:
 	- 給n和n個數字，求連續最大和
 - DP: max 1D range sum
+
+#### Uva 00108 - Maximum Sum
+**AC**
+- question:
+	- 求最大加權長方形
+- 做前綴壓成一維再做DP
+
+#### Uva 00481 - What Goes Up
+**AC**
+- LIS (nlogn)
