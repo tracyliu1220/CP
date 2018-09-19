@@ -124,3 +124,47 @@
 #### Uva 00481 - What Goes Up
 **AC**
 - LIS (nlogn)
+
+#### Uva 11456 - Trainsorting
+**AC**
+- question:
+	- train中每節car只能以遞減的方式排列，插入方使可(1)從車頭(2)從車尾(3)將car銷毀，問最長能排多少節
+- 迴文之後LIS（可以確保每節car的權重都不同）
+
+#### Uva 11790 - Murcia's Skyline
+**AC**
+- question:
+	- 給建築物的高和寬，求遞增和遞減最長寬度
+- 帶權重的LIS跟LDS
+- 因為帶權重所以不能用單調對列優化
+- O(n^2)
+
+#### Uva 10616 - Divisible Group Sums
+**AC**
+- question:
+	- 給N個數字Q筆詢問，問這N個數字中取M個可以組出幾組能被D整除的數字
+- 背包問題
+- 把數字%D
+- `dp[m][j] += dp[m - 1][(j + D - num[i] % D) % D]`
+	- m: 放到第幾個
+	- j: 當前總和
+	- num: 存那N個數字
+
+#### Uva 10819 - Trouble of 13-Dots
+**AC**
+- question:
+	- 給預算價錢跟喜好度，問預算內能達到最高的喜好度，注意預算有範圍變化
+- 帶權的背包，最後從頭到尾跑max值
+
+#### Uva 00357 - Let Me Count The Ways
+**AC**
+- question:
+	- 問幣值有多少種換錢方式
+- dp問累加方法數
+
+#### Uva 10306 - e-Coins
+**AC**
+- question:
+	- 給很多向量x跟y，求成落點在圓心(0,0)，r=S上的最少向量組合數
+- dp二維取min
+

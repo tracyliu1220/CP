@@ -45,7 +45,6 @@ int main(int argc, char *argv[]) {
 	for(i = 0; i < b; i++){
 		for(j = 0; j < w; j++){
 			if(map[i][j] == '@'){
-				map[i][j] == '*';
 				trace(i, j, b, w);
 				count++;
 			}
