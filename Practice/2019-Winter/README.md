@@ -7,8 +7,8 @@
 ## 熱身與收操使用
 每天寫一題作為熱身，寫一題作為收操用。不多不少。
 ### 超簡單題
-- [ ] [Uva 00272](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=208)
-- [ ] [Uva 10550](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1491)
+- [x] [Uva 00272](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=208)
+- [x] [Uva 10550](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1491)
 - [ ] [Uva 11044](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1985)
 - [ ] [Uva 11364](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2349)
 - [ ] [Uva 11498](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2493)
@@ -75,9 +75,9 @@
 ## 資料結構與工具
 ### 線性資料結構
 - [ ] [Uva 00230](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=166)
-- [ ] [Uva 00394](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=330)
+- [x] [Uva 00394](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=330)
 - [ ] [Kattis divideby100](https://open.kattis.com/problems/divideby100)
-- [ ] [Kattis erase](https://open.kattis.com/problems/erase)
+- [x] [Kattis erase](https://open.kattis.com/problems/erase)
 - [ ] [Uva 00101](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=37)
 - [ ] [Uva 00434](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=375)
 - [ ] [Kattis 2048](https://open.kattis.com/problems/2048)
@@ -125,7 +125,7 @@
 ## 基本解題方法
 ### 暴力
 - [ ] [Uva 10128](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1069)
-- [ ] [Kattis cardtrick2](https://open.kattis.com/problems/cardtrick2)
+- [x] [Kattis cardtrick2](https://open.kattis.com/problems/cardtrick2)
 - [ ] [Kattis lastfactorialdigit](https://open.kattis.com/problems/lastfactorialdigit)
 - [ ] [Uva 10976](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1917)
 - [ ] [Kattis anotherbrick](https://open.kattis.com/problems/anotherbrick)
