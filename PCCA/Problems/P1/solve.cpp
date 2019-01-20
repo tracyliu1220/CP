@@ -50,19 +50,14 @@ int main() {
 					if (d[nxt.F] > d[cur] + nxt.S) {
 						d[nxt.F] = d[cur] + nxt.S;
 						q.push(pii(d[nxt.F], nxt.F));
-						localmax = max(localmax, d[nxt.F]);
 					}
 				}
 			}
-
+			for (int i = 0; i < n; i ++)
+				localmax = max(localmax, d[i]);
 			Min = min(Min, localmax);
 		}
-
-
 		ans += Min;
 	}
-
 	cout << ans + 1000 << '\n';
-
-
 }
