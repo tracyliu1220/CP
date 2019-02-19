@@ -29,7 +29,7 @@
 - [x] [Kattis earlywinter](https://open.kattis.com/problems/earlywinter)
 - [x] [Kattis hangingout](https://open.kattis.com/problems/hangingout)
 ### 比簡單題難一些
-- [ ] [Uva 00119](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=55)
+- [x] [Uva 00119](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=55)
 - [ ] [Uva 00661](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=602)
 - [ ] [Uva 10141](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1082)
 - [ ] [Uva 10324](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1265)
