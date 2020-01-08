@@ -152,7 +152,7 @@
 - [ ] [Kattis smallschedule](https://open.kattis.com/problems/smallschedule)
 - [x] [Uva 12190](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3342)
 - [ ] [Kattis sylvester](https://open.kattis.com/problems/sylvester)
-- [ ] [Kattis a1paper](https://open.kattis.com/problems/a1paper)
+- [x] [Kattis a1paper](https://open.kattis.com/problems/a1paper)
 ### 貪婪
 - [ ] [Uva 12405](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3836)
 - [x] [Kattis color](https://open.kattis.com/problems/color)
